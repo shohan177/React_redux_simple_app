@@ -23,6 +23,9 @@ export default function App() {
         <hr />
         <p>Combine reducer (dynamic 5)</p>
         <DynamcHookCounter />
+        <hr />
+        <p>curried function</p>
+        {/* <DynamcHookCounter /> */}
       </div>
     </Provider>
   );
